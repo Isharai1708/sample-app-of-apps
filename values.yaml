@@ -1,0 +1,6 @@
+# Default safe values - always empty
+# Real values come from the engine or preprod repo
+team: myteam
+release: dev
+
+applications: []
